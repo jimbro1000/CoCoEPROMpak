@@ -1,6 +1,4 @@
-*.?\#?
-*~
-*.pro
-eagle.epf
-._*
-.DS_Store
+*-backups/
+gerbers/
+production/
+*.bak
